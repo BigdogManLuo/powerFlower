@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/license-%20Apache%202.0-blue) ![]()
 
-Powerflower is a lightweight software designed for power system power flow calculations, developed using MATLAB. This tool provides engineers and researchers with the capability to perform power flow analysis effortlessly, supporting a format akin to PSASP, enabling both Newton iteration and PQ decomposition methods for conventional power system power flow calculations, and offering simple yet effective visualization of power flow results. With batch processing capabilities, Powerflower streamlines your power system analysis workflow.
+Powerflower is a lightweight software designed for power system power flow calculations, based on MATLAB. This tool provides researchers with the capability to perform power flow analysis effortlessly, supporting a format akin to PSASP, enabling both Newton iteration and PQ decomposition methods for conventional power system power flow calculations, and offering simple yet effective visualization of power flow results. 
 
 ## Overview
 - Supports input with format similar to PSASP
